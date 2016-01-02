@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cartoonCharacterR.png</Source>
+      <Name>cartoonCharacterR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterR.xnb</Output>
+      <Time>2015-09-09T20:18:43.6476819+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterL.png</Source>
+      <Name>cartoonCharacterL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterL.xnb</Output>
+      <Time>2015-09-10T20:26:35.6175492+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dagger.png</Source>
+      <Name>dagger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\dagger.xnb</Output>
+      <Time>2015-09-10T23:55:27.8999052+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bg_game.png</Source>
+      <Name>bg_game</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\bg_game.xnb</Output>
+      <Time>2015-09-15T20:26:24.0160301+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterJumpR.png</Source>
+      <Name>cartoonCharacterJumpR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterJumpR.xnb</Output>
+      <Time>2015-09-19T00:52:27.778748+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterJumpL.png</Source>
+      <Name>cartoonCharacterJumpL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterJumpL.xnb</Output>
+      <Time>2015-09-19T00:52:42.6406162+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterLCrouch.png</Source>
+      <Name>cartoonCharacterLCrouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterLCrouch.xnb</Output>
+      <Time>2015-10-06T23:29:16.0495185+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cartoonCharacterRCrouch.png</Source>
+      <Name>cartoonCharacterRCrouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\cartoonCharacterRCrouch.xnb</Output>
+      <Time>2015-10-06T23:28:56.504863+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sword.png</Source>
+      <Name>sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\sword.xnb</Output>
+      <Time>2015-10-07T20:15:08.3889713+01:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2015-09-13T00:42:24.1038119+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameTitle.png</Source>
+      <Name>gameTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\gameTitle.xnb</Output>
+      <Time>2015-12-31T19:58:57.8623502+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{407F11C8-0166-4AF2-A30C-CE836432E272}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplayContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\wanna be chris brown\documents\visual studio 2013\Projects\CharacterDisplay\CharacterDisplay\CharacterDisplay\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-29T23:01:39.5551909+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

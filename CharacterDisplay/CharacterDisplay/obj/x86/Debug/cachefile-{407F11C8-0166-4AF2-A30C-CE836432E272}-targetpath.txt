@@ -1,0 +1,11 @@
+Content\cartoonCharacterR.xnb
+Content\cartoonCharacterL.xnb
+Content\dagger.xnb
+Content\bg_game.xnb
+Content\cartoonCharacterJumpR.xnb
+Content\cartoonCharacterJumpL.xnb
+Content\cartoonCharacterLCrouch.xnb
+Content\cartoonCharacterRCrouch.xnb
+Content\sword.xnb
+Content\GameFont.xnb
+Content\gameTitle.xnb
